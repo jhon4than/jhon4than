@@ -56,6 +56,4 @@ abrir, eu abro aqui.
 
 <img src="https://streak-stats.demolab.com?user=jhon4than&theme=tokyonight&hide_border=true&locale=pt_BR" height="180" alt="Sequência de contribuições" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhon4than&theme=tokyo-night&hide_border=true&area=true&locale=pt-BR" width="92%" alt="Gráfico de atividade" />
-
 </div>
