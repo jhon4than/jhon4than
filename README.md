@@ -54,7 +54,8 @@ abrir, eu abro aqui.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jhon4than&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" height="165" alt="Estatísticas do GitHub" />
-<img src="https://streak-stats.demolab.com?user=jhon4than&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=jhon4than&theme=tokyonight&hide_border=true&locale=pt_BR" height="180" alt="Sequência de contribuições" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhon4than&theme=tokyo-night&hide_border=true&area=true&locale=pt-BR" width="92%" alt="Gráfico de atividade" />
 
 </div>
