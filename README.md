@@ -25,4 +25,5 @@ computacional · SEO técnico e programático
 
 ## 🌐 Onde me encontrar
 
-- **Site:** [jhonmeireles.com.br](https://www.jhonmeireles.com.br/)
+- **Portfólio:** [portfolio.jhondev.site](https://portfolio.jhondev.site) — projetos, stack e clientes
+- **LinkedIn:** [/in/jhonathan-meireles](https://www.linkedin.com/in/jhonathan-meireles)
