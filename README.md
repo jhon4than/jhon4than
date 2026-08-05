@@ -1,28 +1,25 @@
-<div align="center">
+<h1 align="left">Jhonathan Meireles 👋</h1>
 
-# Olá! Eu sou o Jhonathan 👋
+<h3 align="left">Desenvolvedor Full-Stack & Criador de SaaS</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=560&lines=SaaS+multi-tenant+em+produ%C3%A7%C3%A3o;Gateways+de+pagamento+PIX;CRM+%2B+WhatsApp+%2B+agentes+de+IA;Automa%C3%A7%C3%A3o+e+vis%C3%A3o+computacional)](https://portfolio.jhondev.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-meireles)
+[![Gmail](https://img.shields.io/badge/jhon4than1995@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jhon4than1995@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-6C63FF?style=flat&logo=googlechrome&logoColor=white)](https://portfolio.jhondev.site)
 
-**Full-stack · SaaS · Pagamentos (PIX/fintech) · Automação & IA**
+Desenvolvedor full-stack focado em **SaaS multi-tenant**, **plataformas de
+pagamento PIX** e **automação com IA**. Já coloquei no ar gateways de pagamento
+com 900+ vendedores ativos, CRM com WhatsApp e agentes de IA, diretórios com
+SEO orgânico e pipelines de conteúdo e vídeo gerados por código. Cuido do ciclo
+completo: arquitetura, código, deploy e crescimento — do banco de dados ao
+tráfego que faz vender.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-portfolio.jhondev.site-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.jhondev.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhonathan--meireles-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-meireles)
-
-</div>
-
-Construo produtos digitais que escalam: **SaaS multi-tenant**, **gateways de
-pagamento PIX** com 900+ vendedores ativos, **CRM com WhatsApp e agentes de
-IA**, e-commerce e pipelines de conteúdo automatizado. Do banco de dados ao
-deploy — e ao tráfego que faz vender.
-
-A maior parte do que faço é código fechado de produto e de cliente — os
+A maior parte do que construo é código fechado de produto e de cliente — os
 projetos estão no [portfólio](https://portfolio.jhondev.site). O que dá pra
 abrir, eu abro aqui.
 
-## 🛠️ Tecnologias
+<br>
 
-<div align="center">
+## 🛠️ Tecnologias
 
 [![Stack](https://skillicons.dev/icons?i=ts,js,py,php,react,nextjs,astro,vue,tailwind,nodejs,nestjs,express,prisma,postgres,mysql,redis,docker,nginx,vercel,git&perline=10)](https://portfolio.jhondev.site)
 
@@ -42,14 +39,16 @@ abrir, eu abro aqui.
 ![OpenCV](https://img.shields.io/badge/Vis%C3%A3o%20Computacional-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
 
-</div>
+<br>
 
 ## 🚀 Em destaque
 
 | Projeto | O que é |
 |---|---|
-| [**coc-bot-mac**](https://github.com/jhon4than/coc-bot-mac) | Bot de farm por visão computacional, nativo em Apple Silicon: template matching multi-escala com cache, OCR com o framework Vision do macOS, travas de segurança e suíte de selftests |
+| [**coc-bot-mac**](https://github.com/jhon4than/coc-bot-mac) | Bot de farm por visão computacional, nativo em Apple Silicon: template matching multi-escala com cache, OCR com o framework Vision do macOS e suíte de selftests |
 | [**Portfólio completo →**](https://portfolio.jhondev.site) | Velani Pagamentos, ClickNex CRM, Onyx Payments, TeleGrupos BR e mais 12 projetos em produção |
+
+<br>
 
 ## 📊 GitHub
 
